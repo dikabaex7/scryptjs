@@ -1,0 +1,21 @@
+{
+  "name": "@dikabae/scryptjs",
+  "version": "1.0.5",
+  "main": "encrypt.js",
+  "bin": {
+    "encrypt": "./encrypt.js"
+  },
+  "keywords": [
+    "scryptjs"
+  ],
+  "author": "Dikabae",
+  "license": "ISC",
+  "description": "Sebuah tool sederhana untuk mengenkripsi semua file extension js.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dikabaex7/scryptjs.git"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
